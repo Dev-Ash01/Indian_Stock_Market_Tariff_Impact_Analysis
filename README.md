@@ -180,7 +180,7 @@ Roughly **USD 8.7 billion** in extra duties is levied on surviving exports, whic
   - Result: **natural defensive / safe-haven sector** in this tariff shock.
 
 - **Potentially Defensive Niches**
-  - **Semiconductor design, IT services, embedded engineering** – mostly services, not goods; outside the scope of these tariffs.  
+  - **Semiconductor design, IT services, embedded engineering** : mostly services, not goods; outside the scope of these tariffs.  
   - **Specialty chemicals with strong IP/tech content** may retain pricing power even with tariffs.
 
 ---
